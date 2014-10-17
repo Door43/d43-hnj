@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hnj:home|Door43 (hnj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hnj|d43-hnj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hnj/archive/master.zip|d43-hnj.zip]]
+
+**Recent Changes**
+{{changes>ns = hnj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hnj|Ethnologue data]]
+
